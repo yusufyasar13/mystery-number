@@ -19,10 +19,6 @@ This is a simple number guessing game built using Python's Tkinter library. In t
 
     6) The game will provide feedback on your guess by highlighting the digits:
 
-        - **Red**: Digits that are incorrect and not present in the actual number.
-        - **Blue**: Digits that are correct but not in the correct position.
-        - **Dark Green**: Digits that are correct and in the correct position.
-    
     7) Continue guessing until you either correctly guess the number or run out of guess rights.
 
     8) After each guess, the remaining guess rights will be displayed.
@@ -31,7 +27,9 @@ This is a simple number guessing game built using Python's Tkinter library. In t
 
     10) If you use up all your guess rights without guessing the correct number, the game is over. You can choose to play again or exit.
 
-    
+- **Red**: Digits that are incorrect and not present in the actual number.
+- **Blue**: Digits that are correct but not in the correct position.
+- **Dark Green**: Digits that are correct and in the correct position.
 
 
 
