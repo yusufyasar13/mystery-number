@@ -58,11 +58,14 @@ This game requires Python 3.x and the `tkinter` library.
     3) Navigate to the repository's directory using the terminal.
 
     4) Run the following command to start the game:
+```bash 
+  python mystery_number.py
 
-        - python mystery_number.py
+```
+
+
 
     
-
   
 ## Lisans
 
