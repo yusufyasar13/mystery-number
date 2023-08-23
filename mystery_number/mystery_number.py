@@ -1,3 +1,4 @@
+# MIT License
 # -*- coding: utf-8 -*-
 import random
 import tkinter as tk
