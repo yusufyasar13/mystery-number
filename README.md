@@ -51,6 +51,8 @@ This game requires Python 3.x and the `tkinter` library.
   
 ## How to Run
 
+    ********** First Usace of The Project **********
+    
     1) Install Python 3.x on your system.
 
     2) Clone this repository.
@@ -63,10 +65,22 @@ This game requires Python 3.x and the `tkinter` library.
 
 ```
 
+    ********** Second Usace of The Project **********
+
+    1) Clone or download this code repository to your computer and unzip the downloaded file.
+
+    2) The application is not require Python 3.x to be installed.
+
+    3) Click twice the exe file or open your terminal or command prompt and navigate to the directory where the code repository is located.
+
+    4) Run the application using the following command:
+
+```bash 
+  mystery_number.exe
+
+```
 
 
-    
-  
 ## Lisans
 
 This application is open-source and distributed under the MIT License. For more information, refer to the
