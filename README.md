@@ -85,6 +85,6 @@ This game requires Python 3.x and the `tkinter` library.
 
 This application is open-source and distributed under the MIT License. For more information, refer to the
 
-[MIT](https://github.com/yusufyasar13/password-generator/blob/main/password_generator/LICENSE)
+[MIT](https://github.com/yusufyasar13/mystery-number/blob/main/mystery_number/LICENSE)
 
   
